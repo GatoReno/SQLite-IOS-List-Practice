@@ -1,0 +1,21 @@
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/bin/iPhoneSimulator/Debug/IOSSQLite.exe
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/bin/iPhoneSimulator/Debug/IOSSQLite.pdb
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/ibtool/_BundleResourceWithLogicalName.items
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/actool/_PartialAppManifest.items
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/actool/_BundleResourceWithLogicalName.items
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/coremlc/_PartialAppManifest.items
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/coremlc/_BundleResourceWithLogicalName.items
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/optimized/
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/obj/iPhoneSimulator/Debug/IOSSQLite.csprojAssemblyReference.cache
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/obj/iPhoneSimulator/Debug/IOSSQLite.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/obj/iPhoneSimulator/Debug/IOSSQLite.csproj.CopyComplete
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/obj/iPhoneSimulator/Debug/IOSSQLite.exe
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/obj/iPhoneSimulator/Debug/IOSSQLite.pdb
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/bin/iPhoneSimulator/Debug/SQLitePCLRaw.nativelibrary.dll
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/dmn/Projects/IOSSQLite/IOSSQLite/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.dll

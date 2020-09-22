@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{44ECF433-05AB-418A-82E0-DBFF8BAF1DD4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IOSSQLite/ViewController.designer.cs">
+    <Files>
+      <File FileName="IOSSQLite/Main.storyboard" />
+      <File FileName="IOSSQLite/models/ContactModel.cs" Line="10" Column="9" />
+      <File FileName="IOSSQLite/ContactViewController.cs" Line="17" Column="10" />
+      <File FileName="IOSSQLite/ContactViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="IOSSQLite/ViewController.cs" Line="1" Column="1" />
+      <File FileName="IOSSQLite/ViewController.designer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IOSSQLite" expanded="True">
+            <Node name="IOSSQLite" expanded="True">
+              <Node name="models" expanded="True" />
+              <Node name="ContactViewController.cs" expanded="True" />
+              <Node name="ViewController.cs" expanded="True">
+                <Node name="ViewController.designer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.IOSSQLite PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4CD3F0C2-D5D2-41F6-89F0-3BB09E386A25" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
